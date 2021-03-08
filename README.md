@@ -17,12 +17,12 @@ Algorithm for my program:
 - I need to enter the operator in which what operation can be performed between that two numbers.
 - I assign four operators which are + , - , * , %
 - I use here switch case operator to perform these operations.
-- Use break function so that it will not compile the enter program for your required output.
--  
+- Use break function so that it will not compile the enter program for your required output. 
 - plus(+) operator uses addition of two numbers.
 - subtract(-) operator uses subtraction of two numbers.
 - star(*) operator uses multiplication of two numbers.
 - % operator uses division of two numbers.
 - If u enter the values then enter the operator in which operation you want to do between that numbers.
 - In case if any problem assigned with user defined operations the system throws "You entered the wrong input" as default one.
+- Otherwise it will throws an desired output.
  
