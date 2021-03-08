@@ -9,12 +9,12 @@ Approach Used:
 * Using a switch case to evaluate respective operations.
 
 Algorithm for my program:
- I first declare the name for my class so that i can call it anywhere if packages are used.
- After that i want to take input from users so that it can be used if i assigned values it will not be effective.
- Then it will take numbers from users in which i can set number value as float so that i can declare large values and also integer values.
- Now i want to make four basic operations in the user defined numbers
- I need to enter the operator in which what operation can be performed between that two numbers.
- I assign four operators which are + , - , * , %
+- I first declare the name for my class so that i can call it anywhere if packages are used.
+- After that i want to take input from users so that it can be used if i assigned values it will not be effective.
+- Then it will take numbers from users in which i can set number value as float so that i can declare large values and also integer values.
+- Now i want to make four basic operations in the user defined numbers
+- I need to enter the operator in which what operation can be performed between that two numbers.
+- I assign four operators which are + , - , * , %
  + operator uses addition of two numbers.
  - operator uses subtraction of two numbers.
  * operator uses multiplication of two numbers.
