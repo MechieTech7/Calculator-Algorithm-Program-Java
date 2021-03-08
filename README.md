@@ -9,15 +9,20 @@ Approach Used:
 * Using a switch case to evaluate respective operations.
 
 Algorithm for my program:
+- I declare my class as public so that it could be accessed anywhere we need. 
 - I first declare the name for my class so that i can call it anywhere if packages are used.
 - After that i want to take input from users so that it can be used if i assigned values it will not be effective.
 - Then it will take numbers from users in which i can set number value as float so that i can declare large values and also integer values.
 - Now i want to make four basic operations in the user defined numbers
 - I need to enter the operator in which what operation can be performed between that two numbers.
 - I assign four operators which are + , - , * , %
-- plus operator uses addition of two numbers.
-- subtract operator uses subtraction of two numbers.
-- star operator uses multiplication of two numbers.
+- I use here switch case operator to perform these operations.
+- Use break function so that it will not compile the enter program for your required output.
+-  
+- plus(+) operator uses addition of two numbers.
+- subtract(-) operator uses subtraction of two numbers.
+- star(*) operator uses multiplication of two numbers.
 - % operator uses division of two numbers.
-- In case if any problem assigned with user defined operations the system throws "You entered the wrong inpult" as default one.
+- If u enter the values then enter the operator in which operation you want to do between that numbers.
+- In case if any problem assigned with user defined operations the system throws "You entered the wrong input" as default one.
  
