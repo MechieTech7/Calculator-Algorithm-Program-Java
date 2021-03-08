@@ -15,9 +15,9 @@ Algorithm for my program:
 - Now i want to make four basic operations in the user defined numbers
 - I need to enter the operator in which what operation can be performed between that two numbers.
 - I assign four operators which are + , - , * , %
- + operator uses addition of two numbers.
- - operator uses subtraction of two numbers.
- * operator uses multiplication of two numbers.
- % operator uses division of two numbers.
- In case if any problem assigned with user defined operations the system throws "You entered the wrong inpult" as default one.
+- + operator uses addition of two numbers.
+- - operator uses subtraction of two numbers.
+- * operator uses multiplication of two numbers.
+- % operator uses division of two numbers.
+- In case if any problem assigned with user defined operations the system throws "You entered the wrong inpult" as default one.
  
